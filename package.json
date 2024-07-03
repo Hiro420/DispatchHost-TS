@@ -1,0 +1,17 @@
+{
+  "name": "dispatchhost",
+  "version": "1.0.0",
+  "description": "idk",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Hiro",
+  "license": "ISC",
+  "devDependencies": {
+    "protobufjs": "^7.3.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.3"
+  }
+}
